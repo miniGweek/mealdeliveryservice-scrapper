@@ -2,9 +2,6 @@
   "profiles": {
     "MealDeliveryServiceScrapper": {
       "commandName": "Project"
-    },
-    "Container (Dockerfile)": {
-      "commandName": "Docker"
     }
   }
 }
